@@ -4,7 +4,7 @@ I am a passionate full-stack software engineer driven to create and execute inno
 
 [![Carlo Mendoza's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlodmendoza&include_all_commits=true&count_private=true&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlodmendoza&langs_count=10&hide=Batchfile,Dockerfile&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlodmendoza&langs_count=10&hide=Batchfile,Dockerfile,Java&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
